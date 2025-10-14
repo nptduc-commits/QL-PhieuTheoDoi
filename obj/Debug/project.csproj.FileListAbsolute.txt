@@ -1,0 +1,39 @@
+C:\Users\ADMIN\source\repos\project\bin\Debug\project.exe.config
+C:\Users\ADMIN\source\repos\project\bin\Debug\project.exe
+C:\Users\ADMIN\source\repos\project\bin\Debug\project.pdb
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.exe
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.pdb
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.exe.config
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.BVUB.resources
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.Forms.DanhSachBN.DanhSachBN.resources
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.Forms.DanhSachBN.ChamSocVaTheoDoi.resources
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.exe.config
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.BVUB.resources
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.Forms.DanhSachBN.ChamSocVaTheoDoi.resources
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.Forms.DanhSachBN.DanhSachBN.resources
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.exe
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.pdb
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\project.exe.config
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\project.exe
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\project.pdb
+C:\Users\ADMIN\source\repos\project - Copy (2)\bin\Debug\project.exe.config
+C:\Users\ADMIN\source\repos\project - Copy (2)\bin\Debug\project.exe
+C:\Users\ADMIN\source\repos\project - Copy (2)\bin\Debug\project.pdb
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.exe.config
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.BVUB.resources
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.Forms.DanhSachBN.ChamSocVaTheoDoi.resources
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.Forms.DanhSachBN.DanhSachBN.resources
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.exe
+C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.pdb
