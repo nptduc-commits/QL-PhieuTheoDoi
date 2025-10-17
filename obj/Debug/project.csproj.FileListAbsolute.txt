@@ -37,3 +37,39 @@ C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.csproj.Generate
 C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.exe
 C:\Users\ADMIN\source\repos\project - Copy (2)\obj\Debug\project.pdb
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\source\repos\project\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.csproj.Up2Date
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.csproj.Up2Date
+C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\source\repos\project\obj\Debug\project.Forms.XuatCrystalReport.XuatCrystalReport.resources

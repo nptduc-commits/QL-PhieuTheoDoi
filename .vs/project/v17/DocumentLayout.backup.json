@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\project - Copy (2)\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project - copy (2)\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project - Copy (2)\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project\\forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChamSocVaTheoDoi.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy (2)\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
+              "Title": "ChamSocVaTheoDoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
               "RelativeDocumentMoniker": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy (2)\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
-              "RelativeToolTip": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
+              "RelativeToolTip": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:50:37.62Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T10:36:28.327Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ChamSocVaTheoDoi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy (2)\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
-              "RelativeDocumentMoniker": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy (2)\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
-              "RelativeToolTip": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
+              "Title": "XuatCrystalReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
+              "RelativeDocumentMoniker": "Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs [Design]",
+              "RelativeToolTip": "Forms\\XuatCrystalReport\\XuatCrystalReport.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T07:16:39.17Z"
+              "WhenOpened": "2025-10-17T10:36:24.227Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
