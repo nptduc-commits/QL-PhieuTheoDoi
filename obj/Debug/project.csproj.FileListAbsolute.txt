@@ -73,5 +73,8 @@ C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\stdole.dll
 C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.csproj.Up2Date
 C:\Users\ADMIN\source\repos\project\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\ADMIN\source\repos\project\obj\Debug\project.Forms.XuatCrystalReport.XuatCrystalReport.resources
+<<<<<<< HEAD
 C:\Users\ADMIN\source\repos\project - Copy\bin\Debug\CrystalDecisions.Windows.Forms.dll
 C:\Users\ADMIN\source\repos\project - Copy\obj\Debug\project.Forms.XuatCrystalReport.XuatCrystalReport.resources
+=======
+>>>>>>> 51b067c678c273c4d3812a6bedd7c802ee74782d

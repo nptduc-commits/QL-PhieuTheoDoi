@@ -64,6 +64,15 @@
       <DependentUpon>CrystalReport1.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="CrystalReport11.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+>>>>>>> 51b067c678c273c4d3812a6bedd7c802ee74782d
     <Compile Include="Forms\ChamSocVaTheoDoi\ChamSocVaTheoDoi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,7 +103,11 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CrystalReport1.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+<<<<<<< HEAD
       <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+=======
+      <LastGenOutput>CrystalReport11.cs</LastGenOutput>
+>>>>>>> 51b067c678c273c4d3812a6bedd7c802ee74782d
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\ChamSocVaTheoDoi\ChamSocVaTheoDoi.resx">
       <DependentUpon>ChamSocVaTheoDoi.cs</DependentUpon>

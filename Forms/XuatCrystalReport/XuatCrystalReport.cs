@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿// Trong file: XuatCrystalReport.cs
 
 using System;
@@ -5,21 +6,38 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 using CrystalDecisions.CrystalReports.Engine;
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using CrystalDecisions.CrystalReports.Engine;
+using System.Data;
+>>>>>>> 51b067c678c273c4d3812a6bedd7c802ee74782d
 
 namespace project.Forms.XuatCrystalReport
 {
     public partial class XuatCrystalReport : Form
     {
+<<<<<<< HEAD
         // Thêm thuộc tính này. Nó sẽ hoạt động như một "cửa sổ"
         // để nhận mã bệnh nhân từ form ChamSocVaTheoDoi.
         public string MaNguoiBenh { get; set; }
 
         private const string connectionString = "Data Source=DESKTOP-S2SMBM8\\SQLEXPRESS03;Initial Catalog=project;Integrated Security=True";
 
+=======
+>>>>>>> 51b067c678c273c4d3812a6bedd7c802ee74782d
         public XuatCrystalReport()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void XuatCrystalReport_Load(object sender, EventArgs e)
         {
@@ -97,3 +115,33 @@ namespace project.Forms.XuatCrystalReport
         }
     }
 }
+=======
+        private void XuatCrystalReport_Load(object sender, EventArgs e)
+        {
+            // --- PHẦN NÀY BẠN CẦN CHUẨN BỊ DỮ LIỆU ---
+            // Ví dụ: Lấy dữ liệu từ một DataTable có tên là dt.
+            // DataTable dt = new DataTable();
+            // dt = ... // Code lấy dữ liệu từ database của bạn đổ vào đây.
+            //---------------------------------------------
+
+
+            // 1. Tạo một đối tượng của báo cáo bạn đã thiết kế
+            // Giả sử file report của bạn tên là CrystalReport1.rpt
+            CrystalReport1 report = new CrystalReport1();
+
+            // 2. NẠP DỮ LIỆU VÀO BÁO CÁO (CỰC KỲ QUAN TRỌNG)
+            // Nếu không có bước này, báo cáo sẽ trống không.
+            // report.SetDataSource(dt); // dt là DataTable bạn đã chuẩn bị ở trên
+
+            // 3. Gán báo cáo đã có dữ liệu cho Viewer để hiển thị
+            crystalReportViewer1.ReportSource = report;
+            crystalReportViewer1.Refresh(); // Làm mới viewer để hiển thị báo cáo
+        }
+
+        private void crystalReportViewer1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
+>>>>>>> 51b067c678c273c4d3812a6bedd7c802ee74782d
