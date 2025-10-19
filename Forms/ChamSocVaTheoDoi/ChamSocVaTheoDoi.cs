@@ -3,6 +3,10 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Windows.Forms;
+using CrystalDecisions.Shared; // Thêm using này
+using CrystalDecisions.CrystalReports.Engine;
+
+
 
 // Gợi ý: Namespace nên là project.Forms để hợp lý hơn
 namespace project.Forms.DanhSachBN
@@ -620,10 +624,10 @@ namespace project.Forms.DanhSachBN
             HMNT_NiemMac, HMNT_DaXungQuanh,
             
             -- Các cột mới cho Nôn
-            Non_SoLan, Non_SoLuong, Non_ChatNon,
+            Non_SoLan, Non_SoLuong, Non_ChatNon, Non_ChiTiet,
 
             -- Các cột mới cho Đại tiện
-            DaiTien_SoLuong_ChiTiet, DaiTien_MauSac, DaiTien_Khac_ChiTiet,
+            DaiTien_SoLuong_ChiTiet, DaiTien_MauSac, DaiTien_Khac_ChiTiet, DaiTien_ChiTiet,
             DaiTien_SoNgayChuaDaiTien,
             DaiTien_SoLan, DaiTien_SoLuong_Phan, DaiTien_TinhChatPhan
         FROM DanhGia_TieuHoa dgth
@@ -684,6 +688,7 @@ namespace project.Forms.DanhSachBN
                                 txtNonSoLan.Text = reader["Non_SoLan"]?.ToString();
                                 txtNonSoLuong.Text = reader["Non_SoLuong"]?.ToString();
                                 txtChatNon.Text = reader["Non_ChatNon"]?.ToString();
+                                txtKhac.Text = reader["Non_ChiTiet"]?.ToString();
 
                                 // === Xử lý Nhu động ruột (giữ nguyên) ===
                                 if (reader["NhuDongRuot"] != DBNull.Value)
@@ -709,6 +714,7 @@ namespace project.Forms.DanhSachBN
                                 // Gán dữ liệu vào các textbox chi tiết của Đại tiện
                                 txtDaiTienSoLuong.Text = reader["DaiTien_SoLuong_ChiTiet"]?.ToString();
                                 txtDaiTienMauSac.Text = reader["DaiTien_MauSac"]?.ToString();
+                                txtdaitienslkhac.Text = reader["DaiTien_ChiTiet"]?.ToString();
                                 txtSoNgayChuaDaiTien.Text = reader["DaiTien_SoNgayChuaDaiTien"]?.ToString();
                                 txtDaiTienSoLan2.Text = reader["DaiTien_SoLan"]?.ToString();
                                 txtDaiTienSoLuong2.Text = reader["DaiTien_SoLuong_Phan"]?.ToString();
@@ -1437,6 +1443,31 @@ namespace project.Forms.DanhSachBN
             catch (Exception ex)
             {
                 MessageBox.Show("Đã xảy ra lỗi khi tải dữ liệu Chuẩn Đoán Điều Dưỡng: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnExportPDF_Click(object sender, EventArgs e)
+        {
+            CrystalReport1 rpt = new CrystalReport1();
+
+            
+            // 3. Mở hộp thoại để người dùng chọn nơi lưu file
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "PDF Files (*.pdf)|*.pdf";
+            saveFileDialog.Title = "Lưu file PDF";
+
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                try
+                {
+                    // 4. Xuất báo cáo ra đĩa
+                    rpt.ExportToDisk(ExportFormatType.PortableDocFormat, saveFileDialog.FileName);
+                    MessageBox.Show("Xuất file PDF thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi khi xuất file: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
     }
