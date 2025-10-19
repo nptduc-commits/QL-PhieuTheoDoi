@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project - Copy\\forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project\\forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project - Copy\\forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\xuatcrystalreport\\xuatcrystalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project - copy\\forms\\xuatcrystalreport\\xuatcrystalreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\forms\\xuatcrystalreport\\xuatcrystalreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\xuatcrystalreport\\xuatcrystalreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project - copy\\forms\\danhsachbn\\danhsachbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\forms\\danhsachbn\\danhsachbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\danhsachbn\\danhsachbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project - copy\\forms\\danhsachbn\\danhsachbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\forms\\danhsachbn\\danhsachbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\danhsachbn\\danhsachbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|c:\\users\\admin\\source\\repos\\project - copy\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project - Copy\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:forms\\chamsocvatheodoi\\chamsocvatheodoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project - Copy\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "AbsoluteMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|C:\\Users\\ADMIN\\source\\repos\\project\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
       "RelativeMoniker": "D:0:0:{E4345755-63D0-4321-B2AE-581A4DC6DCC6}|project.csproj|solutionrelative:crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CrystalReport1.rpt",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\CrystalReport1.rpt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\CrystalReport1.rpt",
               "RelativeDocumentMoniker": "CrystalReport1.rpt",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\CrystalReport1.rpt",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\CrystalReport1.rpt",
               "RelativeToolTip": "CrystalReport1.rpt",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIeSURBVDhPpZJNSFRRFMd/9973ZnIaswwiWvSFmyFNFyEUTlC4qDYptghaSOAmoY3QojZFVkLuIqZ2FhVCYGOLFhERRBs3MkP0IWmZ5geaOo06M76v28Ia581r1w/O4lzO\u002BZ9z7jnwP2itRamfGEzpUr\u002BczpYGX3yAxGBKu56nXc/T5SQGU/pfBWTgQQim5leYnFv2GcCF0/WBLgMCAFKKgAHce56GslF9Akquu0qKot3xepFC0BqvoTVeQ0tTDVXRcDHHJ/AnHyUlSkqSYoAH0/eJTzWgpMRQEtPwN\u002B3zTKUAMJTg5vwN2ORQKbew7GU5MnGw2FUpxt6OT61C6ONA9fBXj1O/LLpnryKlwciPMZbnsgBknSyNk3UMH/vgExD5vNW2Wlhrfj\u002Be23NrYOnkdEYSj4UZajhDxf4wM\u002BkZvj0Zg0XIDdgAJN\u002BNcq45JgBk5/X\u002B5KXbz7oMN3vlbsd2jsZCvEwVsPofExGVUNCQgULS8W0kwPnLD0Xy7YheyKzos73juvbiqD7U9UUf6K/Tq/k1bdmuth1XW7arn74ZCa6xr6ddh0MmVdEKmmIRtkYNTNPkUf0LLNtFqfXqSglMtfH3gUMqOJCe8KiuCrGr2qBg2TiOWx5WxDdQ36tJ/Xk2zOKqZHPI4/DuDAuLC\u002BzcsY1IZON4AE407hOUC\u002BTzVlvesq9lsrnan0src0Pp8e7hjxOvge99Pe250ti//Aa4Se8VLBKf0wAAAABJRU5ErkJggg==",
               "WhenOpened": "2025-10-16T08:52:07.305Z",
@@ -60,75 +60,70 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ChamSocVaTheoDoi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
               "RelativeDocumentMoniker": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
-              "RelativeToolTip": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
+              "RelativeToolTip": "..\\project - Copy\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T07:16:39.17Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "XuatCrystalReport.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\XuatCrystalReport\\XuatCrystalReport.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.Designer.cs",
               "RelativeToolTip": "Forms\\XuatCrystalReport\\XuatCrystalReport.Designer.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwCkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:43:21.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:43:21.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DanhSachBN.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\DanhSachBN\\DanhSachBN.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\DanhSachBN\\DanhSachBN.cs",
               "RelativeDocumentMoniker": "Forms\\DanhSachBN\\DanhSachBN.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\DanhSachBN\\DanhSachBN.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\DanhSachBN\\DanhSachBN.cs",
               "RelativeToolTip": "Forms\\DanhSachBN\\DanhSachBN.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAuwIMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:43:17.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T03:43:17.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DanhSachBN.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\DanhSachBN\\DanhSachBN.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\DanhSachBN\\DanhSachBN.cs",
               "RelativeDocumentMoniker": "Forms\\DanhSachBN\\DanhSachBN.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\DanhSachBN\\DanhSachBN.cs [Design]",
-              "RelativeToolTip": "Forms\\DanhSachBN\\DanhSachBN.cs [Design]",
+              "RelativeToolTip": "..\\project - Copy\\Forms\\DanhSachBN\\DanhSachBN.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:37:04.972Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-19T03:37:04.972Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ChamSocVaTheoDoi.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
               "RelativeDocumentMoniker": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
               "RelativeToolTip": "Forms\\ChamSocVaTheoDoi\\ChamSocVaTheoDoi.cs",
               "ViewState": "AgIAAJEFAAAAAAAAAAAIwKsFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:50:37.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T13:50:37.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "XuatCrystalReport.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
               "RelativeDocumentMoniker": "Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
               "RelativeToolTip": "Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwFQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T08:39:47.643Z",
               "EditorCaption": ""
@@ -137,13 +132,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "XuatCrystalReport.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\project\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
               "RelativeDocumentMoniker": "Forms\\XuatCrystalReport\\XuatCrystalReport.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs [Design]",
-              "RelativeToolTip": "Forms\\XuatCrystalReport\\XuatCrystalReport.cs [Design]",
+              "RelativeToolTip": "..\\project - Copy\\Forms\\XuatCrystalReport\\XuatCrystalReport.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:39:33.123Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-17T08:39:33.123Z"
             }
           ]
         }
